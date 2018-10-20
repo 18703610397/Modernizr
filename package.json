@@ -20,7 +20,7 @@
     "@babel/preset-env": "^7.4.5",
     "@babel/register": "^7.4.4",
     "auto-changelog": "^1.13.0",
-    "chai": "^4.1.2",
+    "chai": "^4.2.0",
     "del": "^4.1.1",
     "eslint": "^6.0.1",
     "eslint-plugin-jsdoc": "^10.0.2",
